@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DocumentationCreator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\DocumentationCreator.1.0.6\lib\net472\DocumentationCreator.dll</HintPath>
+      <HintPath>..\packages\DocumentationCreator.1.0.7\lib\net472\DocumentationCreator.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
