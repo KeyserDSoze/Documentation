@@ -1,0 +1,1 @@
+﻿This project is a core library with database management.
